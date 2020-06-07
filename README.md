@@ -20,11 +20,7 @@ An opening parenthesis, (, means he should go up one floor, and a closing parent
 The apartment building is very tall, and the basement is very deep; he will never find the top or bottom floors.
 
 For example:
+()() results in floor 0.
+)())()) results in floor -3.
 
-(()) and ()() both result in floor 0.
-((( and (()(()( both result in floor 3.
-))((((( also results in floor 3.
-()) and ))( both result in floor -1 (the first basement level).
-))) and )())()) both result in floor -3.
 To what floor do the instructions take Santa?
------------------------------------------END OF README----------------------------------------------------------------------
